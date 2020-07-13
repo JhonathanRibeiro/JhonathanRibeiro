@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **JhonathanRibeiro/JhonathanRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Jhonathan Ribeiro :man_technologist:
+
+[![Linkedin Badge](https://www.linkedin.com/in/jhonathan-ribeiro/)
+
+### Opa! 👋 Seja muito bem vindo!
+
+My name is Jhonathan and ...:
+
+- 🔭 I’m currently working on Home Office
+- 🌱 I’m currently learning Javascript
+- 👯 I'm looking to collaborate more actively with the community
+- 📫 Social Media: 
+      - Linkedin: jhonathan-ribeiro;
+      - Twitter: Jhonathanjbr;
+      - Insta: @jhonathan.rb/;
+      - Face: Jhonathanjbr.
+      - Blog: https://jhonathanribeiro.netlify.app
+- 😄 Funny fact, I started studying programming thinking it would be easy
+
