@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Jhonathan Ribeiro :man_technologist:
 
-### Opa! 👋 Seja muito bem vindo!
-
+### Helloo! 👋 Is very welcome!
 My name is Jhonathan and ...:
 
 - 🔭 I’m currently working on Home Office
