@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Jhonathan Ribeiro :man_technologist:
 
-[![Linkedin Badge](https://www.linkedin.com/in/jhonathan-ribeiro/)
+[Linkedin](https://www.linkedin.com/in/jhonathan-ribeiro/)
 
 ### Opa! 👋 Seja muito bem vindo!
 
