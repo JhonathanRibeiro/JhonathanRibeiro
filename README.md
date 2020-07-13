@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Jhonathan Ribeiro :man_technologist:
 
-[Linkedin](https://www.linkedin.com/in/jhonathan-ribeiro/)
-
 ### Opa! 👋 Seja muito bem vindo!
 
 My name is Jhonathan and ...:
@@ -24,11 +22,11 @@ My name is Jhonathan and ...:
 - 🔭 I’m currently working on Home Office
 - 🌱 I’m currently learning Javascript
 - 👯 I'm looking to collaborate more actively with the community
-- 📫 Social Media: 
-      - Linkedin: jhonathan-ribeiro;
-      - Twitter: Jhonathanjbr;
-      - Insta: @jhonathan.rb/;
-      - Face: Jhonathanjbr.
-      - Blog: https://jhonathanribeiro.netlify.app
+* 📫 Social Media: 
+    * [Instagram](https://www.instagram.com/jhonathan.rb/)
+    * [Linkedin](https://www.linkedin.com/in/jhonathan-ribeiro/)
+    * [Facebook](https://www.facebook.com/Jhonathanjbr)
+    * [Twitter](https://twitter.com/Jhonathanjbr)
+    * [Blog](https://jhonathanribeiro.netlify.app)
 - 😄 Funny fact, I started studying programming thinking it would be easy
 
