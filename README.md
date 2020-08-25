@@ -8,12 +8,6 @@
 - 💻 Minha stack: HTML, CSS e JavaScript.   
 - 📘 Estudando: Angular, Node.js, Java & Typescript.    
 - 💬 Sobre mim: Gosto de tecnologias e de pensar em ideias empreendedoras.
-* 📫 Social Media: 
-    * [Instagram](https://www.instagram.com/jhonathan.rb/)
-    * [Linkedin](https://www.linkedin.com/in/jhonathan-ribeiro/)
-    * [Facebook](https://www.facebook.com/Jhonathanjbr)
-    * [Twitter](https://twitter.com/Jhonathanjbr)
-    * [Blog](https://jhonathanribeiro.netlify.app)
 
 <div align="center">
   <h3 align="center">Me siga nas redes sociais<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -29,7 +23,7 @@
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
 <a href="https://jhonathanribeiro.netlify.app/" target="blank">
-  <img align="center" alt="Pramod's Blog" width="30px" src="<img src="https://img.icons8.com/nolan/64/blogger.png"/>" />
+  <img align="center" alt="Pramod's Blog" width="30px" src="https://img.icons8.com/nolan/64/blogger.png" />
  </a> 
   <br/>
   <br/>
