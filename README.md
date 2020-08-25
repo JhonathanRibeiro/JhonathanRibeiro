@@ -28,6 +28,9 @@
  <a href="https://twitter.com/Jhonathanjbr" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
+<a href="https://jhonathanribeiro.netlify.app/" target="blank">
+  <img align="center" alt="Pramod's Blog" width="30px" src="<img src="https://img.icons8.com/nolan/64/blogger.png"/>" />
+ </a> 
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
