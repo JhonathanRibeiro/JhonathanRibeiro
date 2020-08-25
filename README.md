@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 My name is Jhonathan and ...:
 
 - 🔭 I’m currently working on Home Office
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Angular 10
+- ☕️ I’m currently learning Java - Spring Boot
 - 👯 I'm looking to collaborate more actively with the community
 * 📫 Social Media: 
     * [Instagram](https://www.instagram.com/jhonathan.rb/)
