@@ -1,7 +1,7 @@
 # Jhonathan Ribeiro :man_technologist:
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-### Olá amigos! 👋
+### Olá! 👋
 ✅ Sou um FullStack Developer 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
