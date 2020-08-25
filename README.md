@@ -3,30 +3,22 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 # Jhonathan Ribeiro :man_technologist:
 
-### Helloo! 👋 Is very welcome!
-My name is Jhonathan and ...:
+### Olá amigos! 👋
+✅ Sou um FullStack Developer 
+- 🚀 Buscando novos desafios.   
+- ⚡  Buscando colaborar com projetos desafiadores.   
+- 💻 Minha stack: HTML, CSS e JavaScript.   
+- 📘 Estudando: Angular, Node.js, Java & Typescript.    
+- 💬 Sobre mim: Gosto de tecnologias e de pensar em ideias empreendedoras.
 
-- 🔭 I’m currently working on Home Office
-- 🌱 I’m currently learning Angular 10
-- ☕️ I’m currently learning Java - Spring Boot
-- 👯 I'm looking to collaborate more actively with the community
 * 📫 Social Media: 
     * [Instagram](https://www.instagram.com/jhonathan.rb/)
     * [Linkedin](https://www.linkedin.com/in/jhonathan-ribeiro/)
     * [Facebook](https://www.facebook.com/Jhonathanjbr)
     * [Twitter](https://twitter.com/Jhonathanjbr)
     * [Blog](https://jhonathanribeiro.netlify.app)
-- 😄 Funny fact, I started studying programming thinking it would be easy
+ 
 
