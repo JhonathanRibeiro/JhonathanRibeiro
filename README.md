@@ -5,8 +5,8 @@
 ✅ Sou Estudante de Análise e desenvolvimento de sistemas
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS e JavaScript.   
-- 📘 Estudando: Angular e Node.js
+- 💻 Minha stack: HTML5, CSS3 e JavaScript.   
+- 📘 Estudando: Java e Angular
 
 <div align="center">
   <h3 align="center">Me siga nas redes sociais<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
