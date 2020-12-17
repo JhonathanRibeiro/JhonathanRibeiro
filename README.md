@@ -10,11 +10,7 @@
   <img width="20px" height="20px" alt="Bootstrap" src="https://user-images.githubusercontent.com/37172038/102550676-fa19c200-409c-11eb-9915-4630287ab732.png">  
   <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
   <img width="20px" height="20px" alt="EXPRESS" src="https://user-images.githubusercontent.com/37172038/102550919-76aca080-409d-11eb-87cd-e976ad4722fd.png">  
-  <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
-  <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
-  <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
-  <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
-  <img width="20px" height="20px" alt="CSS3" src="https://user-images.githubusercontent.com/37172038/102550836-4c5ae300-409d-11eb-8d2c-89443494a81d.png">  
+  <img width="20px" height="20px" alt="GIT" src="https://user-images.githubusercontent.com/37172038/102551093-b3789780-409d-11eb-9e61-4fec6a4aec29.png">
   
   
   
