@@ -25,9 +25,10 @@
   <img width="20px" height="20px" alt="Postman" src="https://user-images.githubusercontent.com/37172038/102552897-b628bc00-40a0-11eb-97ac-52344f8a6f58.png">
   <img width="20px" height="20px" alt="Linux" src="https://user-images.githubusercontent.com/37172038/102552999-e6705a80-40a0-11eb-847d-f82226f46270.png">
   <img width="20px" height="20px" alt="VSCODE" src="https://user-images.githubusercontent.com/37172038/102553120-1ae41680-40a1-11eb-8766-5aa820a3216c.png">
-  <img width="20px" height="20px" alt="Cypress" src="https://user-images.githubusercontent.com/37172038/102553562-ce4d0b00-40a1-11eb-9c3f-d878c63d5c57.png">
+  <img width="60px" height="20px" alt="Cypress" src="https://user-images.githubusercontent.com/37172038/102553562-ce4d0b00-40a1-11eb-9c3f-d878c63d5c57.png">
 </div>
-<div><h3 style="width:100%!important;margin: 55px 0px auto!important;">Me siga nas redes sociais</h3></div>
+<br/><br/>
+<div align="center"><h3 align="center">Me siga nas redes sociais</h3></div>
 <br/>
 <p align="center">
  <a href="https://www.linkedin.com/in/jhonathan-ribeiro/" target="_blank">
