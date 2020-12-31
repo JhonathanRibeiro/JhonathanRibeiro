@@ -12,7 +12,7 @@
   <img width="20px" height="20px" alt="EXPRESS" src="https://user-images.githubusercontent.com/37172038/102550919-76aca080-409d-11eb-87cd-e976ad4722fd.png">  
   <img width="20px" height="20px" alt="GIT" src="https://user-images.githubusercontent.com/37172038/102551093-b3789780-409d-11eb-9e61-4fec6a4aec29.png">
   <img width="20px" height="20px" alt="HTML5" src="https://user-images.githubusercontent.com/37172038/102551445-40bbec00-409e-11eb-80ad-44b1329c9c4b.png">
-  <img width="20px" height="20px" alt="IONIC" src="https://user-images.githubusercontent.com/37172038/102551645-9a241b00-409e-11eb-955b-7095bd15bbf6.png">
+  <img width="20px" height="20px" alt="INSOMNIA" src="https://user-images.githubusercontent.com/37172038/103426717-33245d00-4b9a-11eb-972b-344ea5d8fa89.png">
   <img width="20px" height="20px" alt="JAVASCRIPT" src="https://user-images.githubusercontent.com/37172038/102551719-be7ff780-409e-11eb-8808-e32c629a1821.png">
   <img width="20px" height="20px" alt="Jquery" src="https://user-images.githubusercontent.com/37172038/102551766-d35c8b00-409e-11eb-8800-5015e1c94e43.png">
   <img width="20px" height="20px" alt="Nodejs" src="https://user-images.githubusercontent.com/37172038/102551837-eec79600-409e-11eb-9184-b03d90a1e253.png">
