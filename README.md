@@ -2,7 +2,7 @@
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 :mortar_board: Análise e Desenvolvimento de Sistemas
-<br><br><br><br>
+
 <div>
   <img width="20px" height="20px" alt="Angular" src="https://user-images.githubusercontent.com/37172038/102549958-c8542b80-409b-11eb-8212-ebf00d7bc203.png">  
   <img width="20px" height="20px" alt="Bootstrap" src="https://user-images.githubusercontent.com/37172038/102550676-fa19c200-409c-11eb-9915-4630287ab732.png">  
@@ -19,7 +19,7 @@
   <img width="20px" height="20px" alt="Linux" src="https://user-images.githubusercontent.com/37172038/102552999-e6705a80-40a0-11eb-847d-f82226f46270.png">
   <img width="20px" height="20px" alt="VSCODE" src="https://user-images.githubusercontent.com/37172038/102553120-1ae41680-40a1-11eb-8766-5aa820a3216c.png">
 </div>
-<br/><br/>
+<br/><br/><br><br><br><br>
 <div align="center"><h3 align="center">Me siga nas redes sociais</h3></div>
 <br/>
 <p align="center">
