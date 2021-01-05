@@ -1,6 +1,6 @@
 # Jhonathan Ribeiro :man_technologist:
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
+<br>
 :mortar_board: Análise e Desenvolvimento de Sistemas
 <div>
   <img width="20px" height="20px" alt="Angular" src="https://user-images.githubusercontent.com/37172038/102549958-c8542b80-409b-11eb-8212-ebf00d7bc203.png">  
