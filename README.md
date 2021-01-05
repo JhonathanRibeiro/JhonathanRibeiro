@@ -2,7 +2,6 @@
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 :mortar_board: Análise e Desenvolvimento de Sistemas
-- 💻 Stack:
 <div>
   <img width="20px" height="20px" alt="Angular" src="https://user-images.githubusercontent.com/37172038/102549958-c8542b80-409b-11eb-8212-ebf00d7bc203.png">  
   <img width="20px" height="20px" alt="Bootstrap" src="https://user-images.githubusercontent.com/37172038/102550676-fa19c200-409c-11eb-9915-4630287ab732.png">  
