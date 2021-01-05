@@ -11,7 +11,6 @@
   <img width="20px" height="20px" alt="Sass" src="https://user-images.githubusercontent.com/37172038/102551996-30584100-409f-11eb-9810-36f9ba22c266.png">
   <img width="20px" height="20px" alt="JAVASCRIPT" src="https://user-images.githubusercontent.com/37172038/102551719-be7ff780-409e-11eb-8808-e32c629a1821.png">
   <img width="20px" height="20px" alt="TS" src="https://user-images.githubusercontent.com/37172038/102552746-782b9800-40a0-11eb-86e1-2f12d1f217d2.png">
-  <img width="20px" height="20px" alt="Nodejs" src="https://user-images.githubusercontent.com/37172038/102551837-eec79600-409e-11eb-9184-b03d90a1e253.png">
   <img width="20px" height="20px" alt="GIT" src="https://user-images.githubusercontent.com/37172038/102551093-b3789780-409d-11eb-9e61-4fec6a4aec29.png">
   <img width="20px" height="20px" alt="INSOMNIA" src="https://user-images.githubusercontent.com/37172038/103426717-33245d00-4b9a-11eb-972b-344ea5d8fa89.png">
   <img width="20px" height="20px" alt="Postgre" src="https://user-images.githubusercontent.com/37172038/102551911-0d2d9180-409f-11eb-8fce-f96858317cae.png">
@@ -19,7 +18,6 @@
   <img width="20px" height="20px" alt="NPM" src="https://user-images.githubusercontent.com/37172038/102552149-71e8ec00-409f-11eb-99b7-3f60945f4e6b.png">
   <img width="20px" height="20px" alt="Linux" src="https://user-images.githubusercontent.com/37172038/102552999-e6705a80-40a0-11eb-847d-f82226f46270.png">
   <img width="20px" height="20px" alt="VSCODE" src="https://user-images.githubusercontent.com/37172038/102553120-1ae41680-40a1-11eb-8766-5aa820a3216c.png">
-  <img width="60px" height="20px" alt="Cypress" src="https://user-images.githubusercontent.com/37172038/102553562-ce4d0b00-40a1-11eb-9c3f-d878c63d5c57.png">
 </div>
 <br/><br/>
 <div align="center"><h3 align="center">Me siga nas redes sociais</h3></div>
