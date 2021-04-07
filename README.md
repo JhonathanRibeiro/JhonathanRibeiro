@@ -1,7 +1,7 @@
 ## About Me
 
 * Full-Stack Web&Mobile Developer :technologist:
-* Digital Content Creator on [jhonathanribeiro](https://jhonathanribeiro.netlify.app) <img src="LogoBackground.svg" width="30" align="center" /> :purple_heart:
+* Digital Content Creator on [jhonathanribeiro](https://jhonathanribeiro.netlify.app) <img src="https://user-images.githubusercontent.com/37172038/113800681-c1762500-972d-11eb-8572-69d3f34ca121.png" width="30" align="center" /> :purple_heart:
 
 ## My Purpose
 
