@@ -1,6 +1,6 @@
 ## About Me
 
-* Full-Stack Web&Mobile Developer :technologist:
+* Full-Stack Web Developer :technologist:
 * Digital Content Creator on [jhonathanribeiro](https://jhonathanribeiro.netlify.app) <img src="https://user-images.githubusercontent.com/37172038/113800681-c1762500-972d-11eb-8572-69d3f34ca121.png" width="30" align="center" /> :purple_heart:
 
 ## My Purpose
@@ -20,12 +20,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="40" />
   <img src="https://user-images.githubusercontent.com/37172038/113800303-15ccd500-972d-11eb-8396-7aeee39aef94.png" alt="Ionic" title="Ionic" align="center" width="40" />
-  <img src="https://user-images.githubusercontent.com/37172038/113800414-490f6400-972d-11eb-9877-63b92fca9ed2.png" alt="Nativescript" title="Nativescript" align="center" width="40"/>
   <img src="https://user-images.githubusercontent.com/37172038/113800355-2c732c00-972d-11eb-809c-c7714ea9e5e9.png" alt="Angular" title="Angular" align="center" width="40" />
   <img src="https://user-images.githubusercontent.com/37172038/113800493-6a705000-972d-11eb-9a57-1107dbdd5e0b.png" alt="PHP" title="PHP" align="center" width="40" />
   <img src="https://user-images.githubusercontent.com/37172038/113800526-7eb44d00-972d-11eb-84d0-fac8fd4cf9bd.png" alt="Laravel" title="Laravel" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" align="center" width="40" />
 </p>
