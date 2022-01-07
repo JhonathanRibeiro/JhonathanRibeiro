@@ -11,6 +11,13 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/jhonathan.rb)](https://www.instagram.com/jhonathan.rb)
 
+
+## Donation
+If any of my projects help you, can you give me a cup of coffee? :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=5T6AA4WMAXNSU&no_recurring=0&currency_code=BRL)
+
+
 ## My GitHub Stats
 
 <p align="center">
