@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Jhonathan Ribeiro
 
 <div>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JhonathanRibeiro&hide=stars&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_border=true&disable_animations=false&custom_title=Jhonathan%20Ribeiro%20GitHub%20Stats" alt="Jhonathan GitHub Stats" title="Jhonathan GitHub Stats" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanRibeiro&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages" />
+ <a href="https://github.com/JhonathanRibeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonathanRibeiro&hide=stars&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_border=true&disable_animations=false&custom_title=Jhonathan%20Ribeiro%20GitHub%20Stats" alt="Jhonathan GitHub Stats" title="Jhonathan GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanRibeiro&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages" />
 </div>
 
 ### Skills:  
