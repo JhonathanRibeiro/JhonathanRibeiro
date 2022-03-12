@@ -12,6 +12,7 @@
      <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+     <img align="center" alt="React" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black">
      <img align="center" alt="NodeJS" src="https://img.shields.io/badge/NodeJS-03AC13?style=for-the-badge&logo=node.js&logoColor=white">
      <img align="center" alt="Express" src="https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express&logoColor=white">
      <img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java&logoColor=white">
@@ -19,7 +20,6 @@
      <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white"><br>
      <img align="center" alt="VsCode" src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=visualstudio&logoColor=white">  
      <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
-     <img aling="center" alt="React" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black">
     </a>
  </div>
 
