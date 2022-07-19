@@ -20,6 +20,7 @@
      <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white">
      <img align="center" alt="VsCode" src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=visualstudio&logoColor=white">  
      <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+     <img align="center" alt"Python" src="https://img.shields.io/badge/Python-002e63?style=for-the-badge&logo=python&logoColor=ffe135">
     </a>
  </div>
 
