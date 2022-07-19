@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
  <a href="https://github.com/JhonathanRibeiro">
-  <img height="200em" width="350px" src="https://github-readme-stats.vercel.app/api?username=JhonathanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jhonathan GitHub Stats" title="Jhonathan GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanRibeiro&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=JhonathanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jhonathan GitHub Stats" title="Jhonathan GitHub Stats" />
+  <img height="136em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanRibeiro&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages" />
 </div>
 
 ### Skills:  
